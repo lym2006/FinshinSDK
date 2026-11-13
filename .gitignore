@@ -1,0 +1,9 @@
+# 本仓自己会生的东西
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# 构建 wheel 时的残留
+*.egg-info/
+build/
+dist/
